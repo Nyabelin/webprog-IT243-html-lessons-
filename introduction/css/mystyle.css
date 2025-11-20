@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(93, 102, 105);
   font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
@@ -8,5 +8,11 @@ h1 {
 }
 .center {
   text-align: center;
-  color: red;
+  color: rgb(0, 0, 0);
+}
+.Details{
+
+  text-align: Center;
+  color: rgb(23, 180, 23);
+
 }
